@@ -8,7 +8,7 @@
 
 I'm a software developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include PHP, MYSQL and JavasSript.
 
-- 🔭 I'm a software developer [@ArabyAds](https://www.arabyads.com/) in Cairo, Egypt
+- 🔭 I'm a software developer in Belin, Germany
 - 💬 Ask me about **PHP and Backend**
 
 
