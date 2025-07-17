@@ -8,8 +8,8 @@
 
 I'm a software developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include PHP, MYSQL and JavasSript.
 
-- 🔭 I'm a software developer in Belin, Germany
-- 💬 Ask me about **PHP and Backend**
+- 🔭 I'm a software developer in Germany
+- 💬 Ask me about **PHP and JS**
 
 
 <!--
